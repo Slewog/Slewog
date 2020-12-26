@@ -34,12 +34,6 @@
         <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
-                    <b>Visual Studio</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
-            </td>
-            <td width = "25%" align = "center">
-                <span>
                     <b>VSCode</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
@@ -101,13 +95,13 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Mx 150</b>
+                    <b>GTX 1660TI</b>
                 </span><br><br>
                 <img height="64px" src="https://www.evolvingsol.com/wp-content/uploads/2020/03/nvidia-png-nvidia-logo-png-2000.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>8 Go RAM</b>
+                    <b>16 Go RAM</b>
                 </span><br><br>
                 <img height="64px" src="https://img.icons8.com/windows/452/huawei-logo.png">
             </td>
@@ -123,19 +117,19 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>Ryzen 7 2700x</b>
+                    <b>i7 - 8700K</b>
                 </span><br><br>
-                <img height="64px" src="https://i.dlpng.com/static/png/6442725_preview.png">
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Intel_logo_%282006%29.svg/1005px-Intel_logo_%282006%29.svg.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>RTX 2060</b>
+                    <b>GTX 1080TI</b>
                 </span><br><br>
                 <img height="64px" src="https://www.evolvingsol.com/wp-content/uploads/2020/03/nvidia-png-nvidia-logo-png-2000.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>32 Go RAM</b>
+                    <b>16 Go RAM</b>
                 </span><br><br>
                 <img height="64px" src="https://img.icons8.com/windows/452/corsair.png">
             </td>
