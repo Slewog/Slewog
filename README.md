@@ -60,15 +60,6 @@
     </tbody>
     <tbody>
         <tr valign = "top">
-                <span>
-                    <b>Github</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-            </td>
-        </tr>
-    </tbody>
-        <tbody>
-        <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
                     <b>Discord</b>
@@ -80,6 +71,12 @@
                     <b>Spotify</b>
                 </span><br><br>
                 <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png">
+            </td>
+            <tr valign = "top">
+                <span>
+                    <b>Github</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
             </td>
         </tr>
     </tbody>
