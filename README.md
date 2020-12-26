@@ -23,6 +23,18 @@
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
             </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>HTML 5</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>HTML 5</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+            </td>
         </tr>
     </tbody>
 </table>
@@ -141,3 +153,13 @@
         </tr>
     </tbody>
 </table>
+
+<p>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Slewog&layout=compact&theme=dark">
+</p>
+
+<p>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Slewog&layout=compact&theme=dark">
+</p>
