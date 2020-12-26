@@ -32,6 +32,46 @@
 <table>
     <tbody>
         <tr valign = "top">
+            <td width = "15%" align = "center">
+                <span>
+                    <b>VSCode</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            </td>
+            <td width = "15%" align = "center">
+                <span>
+                    <b>PyCharm</b>
+                </span><br><br>
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png">
+            </td>
+            <td width = "15%" align = "center">
+                <span>
+                    <b>Sublim Text</b>
+                </span><br><br>
+                <img height="64px" src="https://damiandeluca.com.ar/wp-content/uploads/2012/08/sublime.png">
+            </td>
+             <td width = "15%" align = "center">
+                <span>
+                    <b>Discord</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/discord.svg">
+            </td>
+            <td width = "15%" align = "center">
+                <span>
+                    <b>Spotify</b>
+                </span><br><br>
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png">
+            </td>
+            <td width = "15%" align = "center">
+                <span>
+                    <b>Github</b>
+                </span><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
                     <b>VSCode</b>
