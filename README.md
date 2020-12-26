@@ -80,7 +80,7 @@
 
 <table>
     <tbody>
-        <tr valign = "top"
+        <tr valign = "top">
             <td width = "20%" align = "center">
                 <span>
                     <b>Windows</b>
