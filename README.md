@@ -72,7 +72,7 @@
                 </span><br><br>
                 <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png">
             </td>
-            <tr valign = "top">
+            <td width = "25%" align = "center">
                 <span>
                     <b>Github</b>
                 </span><br><br>
