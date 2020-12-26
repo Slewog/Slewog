@@ -80,26 +80,20 @@
 
 <table>
     <tbody>
-        <tr valign = "top">
-            <td width = "15%" align = "center">
-                <span>
-                    <b>Asus Rog Strix 3</b>
-                </span><br><br>
-                <img height="64px" src="https://media.ldlc.com/bo/images/fiches/ordinateur_pc_ldlc/rog/asus-rog-logo-white-background-325.png">
-            </td>
-            <td width = "15%" align = "center">
+        <tr valign = "top"
+            <td width = "20%" align = "center">
                 <span>
                     <b>Windows</b>
                 </span><br><br>
                 <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png">
             </td>
-            <td width = "15%" align = "center">
+            <td width = "20%" align = "center">
                 <span>
                     <b>Ubuntu</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
             </td>
-            <td width = "15%" align = "center">
+            <td width = "20%" align = "center">
                 <span>
                     <b>i7 - 9750H</b>
                 </span><br><br>
@@ -111,7 +105,7 @@
                 </span><br><br>
                 <img height="64px" src="https://www.evolvingsol.com/wp-content/uploads/2020/03/nvidia-png-nvidia-logo-png-2000.png">
             </td>
-            <td width = "15%" align = "center">
+            <td width = "20%" align = "center">
                 <span>
                     <b>16 Go RAM</b>
                 </span><br><br>
@@ -153,11 +147,6 @@
         </tr>
     </tbody>
 </table>
-
-<p>
-    <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Slewog&layout=compact&theme=dark">
-</p>
 
 <p>
     <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark">
