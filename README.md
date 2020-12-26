@@ -5,35 +5,23 @@
 <table>
     <tbody>
         <tr valign = "top">
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
                     <b>HTML 5</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
             </td>
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
                     <b>CSS 3</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
             </td>
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
                     <b>Python</b>
                 </span><br><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-            </td>
-            <td width = "20%" align = "center">
-                <span>
-                    <b>HTML 5</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-            </td>
-            <td width = "20%" align = "center">
-                <span>
-                    <b>HTML 5</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
             </td>
         </tr>
     </tbody>
