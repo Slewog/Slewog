@@ -76,7 +76,7 @@
     </tbody>
 </table>
 
-## 💻 Setup
+## 💻 Working Setup
 
 <table>
     <tbody>
@@ -107,14 +107,13 @@
             </td>
         </tr>
     </tbody>
+</table>
+
+## 💻 Gaming Setup
+
+<table>
     <tbody>
         <tr valign = "top">
-            <td width = "25%" align = "center">
-                <span>
-                    <b>Desktop  Gaming</b>
-                </span><br><br>
-                <img height="64px" src="https://media.karousell.com/media/photos/products/2018/04/11/corsair_crystal_series_570x_rgb_1523378509_9ff60019.jpg">
-            </td>
             <td width = "25%" align = "center">
                 <span>
                     <b>Windows</b>
@@ -142,8 +141,3 @@
         </tr>
     </tbody>
 </table>
-
-<p>
-    <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Slewog&layout=compact&theme=dark">
-</p>
