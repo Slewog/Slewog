@@ -48,7 +48,7 @@
                 <span>
                     <b>PyCharm</b>
                 </span><br><br>
-                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/256px-Gnu-nano.svg.png">
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
