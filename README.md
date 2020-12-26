@@ -109,31 +109,31 @@
     </tbody>
     <tbody>
         <tr valign = "top">
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
-                    <b>Desktop</b>
+                    <b>Desktop  Gaming</b>
                 </span><br><br>
                 <img height="64px" src="https://media.karousell.com/media/photos/products/2018/04/11/corsair_crystal_series_570x_rgb_1523378509_9ff60019.jpg">
             </td>
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
                     <b>Windows</b>
                 </span><br><br>
                 <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png">
             </td>
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
                     <b>i7 - 8700K</b>
                 </span><br><br>
                 <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Intel_logo_%282006%29.svg/1005px-Intel_logo_%282006%29.svg.png">
             </td>
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
                     <b>GTX 1080TI</b>
                 </span><br><br>
                 <img height="64px" src="https://www.evolvingsol.com/wp-content/uploads/2020/03/nvidia-png-nvidia-logo-png-2000.png">
             </td>
-            <td width = "20%" align = "center">
+            <td width = "25%" align = "center">
                 <span>
                     <b>16 Go RAM</b>
                 </span><br><br>
