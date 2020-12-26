@@ -85,7 +85,7 @@
                 <span>
                     <b>Asus Rog Strix 3</b>
                 </span><br><br>
-                <img height="64px" src="https://mpng.subpng.com/20180810/uci/kisspng-maximus-viii-extreme-republic-of-gamers-laptop-asu-8-kelebihan-kenapa-harus-rog-wearerog-5b6df2896e6c08.5985995915339321694523.jpg">
+                <img height="64px" src="https://media.ldlc.com/bo/images/fiches/ordinateur_pc_ldlc/rog/asus-rog-logo-white-background-325.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
