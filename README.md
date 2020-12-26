@@ -54,7 +54,7 @@
                 <span>
                     <b>Sublim Text</b>
                 </span><br><br>
-                <img height="64px" src="https://www.google.be/imgres?imgurl=https%3A%2F%2Fdamiandeluca.com.ar%2Fwp-content%2Fuploads%2F2012%2F08%2Fsublime.png&imgrefurl=https%3A%2F%2Fsublime-text-macbook.peatix.com%2F&tbnid=VUnRjKY5wpDhbM&vet=12ahUKEwjKi-PgluztAhXM5KQKHR4KBNQQMygwegUIARChAg..i&docid=znaOEVmFjcaVJM&w=1024&h=1024&itg=1&q=sublime%20text&hl=fr&ved=2ahUKEwjKi-PgluztAhXM5KQKHR4KBNQQMygwegUIARChAg">
+                <img height="64px" src="https://damiandeluca.com.ar/wp-content/uploads/2012/08/sublime.png">
             </td>
         </tr>
     </tbody>
