@@ -109,7 +109,7 @@
     </tbody>
 </table>
 
-## 💻 Gaming Setup
+## :desktop:  Gaming Setup
 
 <table>
     <tbody>
