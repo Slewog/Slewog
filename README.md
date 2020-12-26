@@ -99,7 +99,7 @@
                 </span><br><br>
                 <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Intel_logo_%282006%29.svg/1005px-Intel_logo_%282006%29.svg.png">
             </td>
-            <td width = "15%" align = "center">
+            <td width = "20%" align = "center">
                 <span>
                     <b>GTX 1660TI</b>
                 </span><br><br>
