@@ -80,7 +80,19 @@
 
 <table>
     <tbody>
-        <tr valign = "top">  
+        <tr valign = "top">
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Asus Rog Strix 3</b>
+                </span><br><br>
+                <img height="64px" src="https://mpng.subpng.com/20180810/uci/kisspng-maximus-viii-extreme-republic-of-gamers-laptop-asu-8-kelebihan-kenapa-harus-rog-wearerog-5b6df2896e6c08.5985995915339321694523.jpg">
+            </td>
+            <td width = "25%" align = "center">
+                <span>
+                    <b>Windows</b>
+                </span><br><br>
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png">
+            </td>
             <td width = "25%" align = "center">
                 <span>
                     <b>Ubuntu</b>
