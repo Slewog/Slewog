@@ -100,7 +100,7 @@
                 <span>
                     <b>i7 - 9750H</b>
                 </span><br><br>
-                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Intel_logo_%282006%29.svg/1005px-Intel_logo_%282006%29.svg.png">
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Intel_Core_i7_Logo_2020.png">
             </td>
             <td width = "20%" align = "center">
                 <span>
@@ -133,7 +133,7 @@
                 <span>
                     <b>i7 - 8700K</b>
                 </span><br><br>
-                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Intel_logo_%282006%29.svg/1005px-Intel_logo_%282006%29.svg.png">
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Intel_Core_i7_Logo_2020.png">
             </td>
             <td width = "25%" align = "center">
                 <span>
