@@ -137,7 +137,7 @@
             </td>
             <td width = "25%" align = "center">
                 <span>
-                    <b>GTX 1080TI</b>
+                    <b>RTX 3080</b>
                 </span><br><br>
                 <img height="64px" src="https://www.evolvingsol.com/wp-content/uploads/2020/03/nvidia-png-nvidia-logo-png-2000.png">
             </td>
