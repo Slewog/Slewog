@@ -80,8 +80,8 @@
 </table>
 
 <!-- <p align='center'><img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark"></p> -->
-
+## Stats
 <p align='center'>
-    <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark"></br>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark"></br></br>
     <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Slewog&layout=compact&theme=dark">
 </p>
