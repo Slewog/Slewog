@@ -4,7 +4,7 @@
 
 <table>
     <tbody>
-        <tr valign = "top">
+        <tr valign = "top" align='center'>
             <td width = "25%" align = "center">
                 <span>
                     <b>HTML 5</b>
