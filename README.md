@@ -2,9 +2,9 @@
 
 ## 🎓 Languages
 
-<table>
+<table align='center'>
     <tbody>
-        <tr valign = "top" align='center'>
+        <tr valign = "top">
             <td width = "25%" align = "center">
                 <span>
                     <b>HTML 5</b>
