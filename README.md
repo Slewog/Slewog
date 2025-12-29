@@ -35,7 +35,7 @@
 
 ## ⚙️ Tools
 
-<table>
+<table align='center>
     <tbody>
         <tr valign = "top">
             <td width = "15%" align = "center">
