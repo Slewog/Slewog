@@ -56,33 +56,15 @@
                 </span><br><br>
                 <img height="64px" src="https://damiandeluca.com.ar/wp-content/uploads/2012/08/sublime.png">
             </td>
-             <td width = "15%" align = "center">
-                <span>
-                    <b>Discord</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/discord.svg">
-            </td>
-            <td width = "15%" align = "center">
-                <span>
-                    <b>Spotify</b>
-                </span><br><br>
-                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png">
-            </td>
-            <td width = "15%" align = "center">
-                <span>
-                    <b>Github</b>
-                </span><br><br>
-                <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-            </td>
         </tr>
     </tbody>
     
 </table>
 
-<!-- <p align='center'><img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark"></p> -->
-## 📈 Statistic
+<!--<p align='center'><img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark"></p>
+ ## 📈 Statistic
 <p align='center'>
     <img src = "https://github-readme-stats.vercel.app/api?username=Slewog&show_icons=true&theme=dark"></br></br>
     <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Slewog&theme=dark&%22">
     
-</p>
+</p> -->
